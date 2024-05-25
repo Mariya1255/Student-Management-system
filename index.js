@@ -179,3 +179,4 @@ async function main() {
 }
 // Calling a main function
 main();
+console.log("THE END");

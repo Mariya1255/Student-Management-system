@@ -206,3 +206,4 @@ class Student {
  // Calling a main function
  main();
 
+console.log("THE END");

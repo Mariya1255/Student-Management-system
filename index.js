@@ -105,7 +105,7 @@ async function main() {
                     "View Student Balance",
                     "Pay Fees",
                     "Show Status",
-                    "Exit"
+                    "Exit",
                 ]
             }
         ]);

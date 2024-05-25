@@ -123,7 +123,7 @@ class Student {
                 "View Student Balance",
                 "Pay Fees",
                 "Show Status",
-                "Exit"
+                "Exit",
            ]
         }
      ]);
